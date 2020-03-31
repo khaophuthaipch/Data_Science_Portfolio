@@ -2,7 +2,6 @@ This is a portfolio containing academic and self-learning projects
 
 # Data Analysis and Data Visualization 
 - [NYC High School SAT Score](https://github.com/khaophuthaipch/Exploratory-Analysis/blob/master/Exploratory_Analysis_NYC_SAT_score.ipynb) - This is a exploratory data analysis for self learning. Combining different data files into one data frame and exploratory analysis using graphs. (Python)
-<br><br>
 
 - [Titanic Dataset (Kaggle)](https://github.com/khaophuthaipch/EAI6000/blob/master/PimKhaophuthai_EAI6000_Assignment1(Titanic).ipynb) - Predicting who will survive the sinking with Random Forest
 
